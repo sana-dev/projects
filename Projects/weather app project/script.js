@@ -1,4 +1,4 @@
- <script>
+
 
 const apiKey = "7f599d70d81112c0c2a127d6b0a73097";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
@@ -57,4 +57,4 @@ searchBtn.addEventListener("click", ()=>{
       checkWeather( searchBox.value);
 });
 
- </script>
+
